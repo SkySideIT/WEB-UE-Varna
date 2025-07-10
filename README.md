@@ -30,7 +30,7 @@
 
 ## 🧑‍🤝‍🧑 Team
 
-- **Danail Georgiev** 
+- **Danail Georgiev(me)** 
 - **Ivelin Koev**
 
 ---
